@@ -15,9 +15,9 @@
   "author": "krishnan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KrishnanKamatchi/ocr/issues"
+    "url": "https://github.com/KrishnanKamatchi/Image-Recognition/issues"
   },
-  "homepage": "https://github.com/KrishnanKamatchi/ocr#readme",
+  "homepage": "https://github.com/KrishnanKamatchi/Image-Recognition#readme",
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
